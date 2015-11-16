@@ -14,8 +14,7 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 
 ##Wet Ingredients
 - 1 cup (2 sticks) unsalted butter, room temperature
-- 1/2 cup granulated sugar
-- 1 cup packed light-brown sugar
+- 1 1/2 cup packed light-brown sugar
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
 - 2 large eggs
